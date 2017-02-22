@@ -1,5 +1,5 @@
 # Software
 Notice:
     This is a project of Soochow University.    
-Lisence:
+License:
     GPL v3
